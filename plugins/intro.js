@@ -20,7 +20,7 @@
 CURRENTLY RUNNING ON BETA VERSION!!
 *
    * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
+   * @author : STRIKERBOY <https://github.com/SuhailTechInfo>
    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
    * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
@@ -45,18 +45,18 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://github.com/Devenlee250/Suhail-Md' // Source URL
+const number = '263719765023'
+var name = ' Strikerboy Tech'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
+│ Name      : strikerboy ᴛᴇᴄʜ ɪиғօ
+│ Place       : Chitungwiza ZW
 │ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
+│ Age          : 20
+│ Phone     : wa.me/263719765023
 │ Youtube   : Youtube.com/c/SuhailTechInfo
 │ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
