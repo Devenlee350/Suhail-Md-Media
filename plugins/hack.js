@@ -68,7 +68,7 @@ smd({
 },
 
 async(citel) => {    
-await citel.send("Injecting Malware")   
+await citel.send("𝐍𝐎𝐕𝐀 ᵛ2 Injecting Malware")   
 await sleep(2000)    
 await citel.send(" █ 10%")    
 await sleep(1000)    
@@ -90,11 +90,11 @@ await citel.send(" █ █ █ █ █ █ █ █ █ 90%")
 await sleep(1000)    
 await citel.send(" █ █ █ █ █ █ █ █ █ █ 100%")    
 await sleep(1000)    
-await citel.send("System hyjacking on process.. \n Conecting to Server error to find 404 ")    
+await citel.send("System h𝚒jacking on process.. \n Conecting to Server error to find 404 ")    
 await sleep(1000)    
 await citel.send("Device successfully connected... \n Receiving data...")    
 await sleep(1000)    
-await citel.send("Data hyjacked from device 100% completed \n killing all evidence killing all malwares...")
+await citel.send("Data h𝚒jacked from device 100% completed \n killing all evidence killing all malwares...")
 await sleep(1000)    
 await citel.send(" HACKING COMPLETED ")    
 await sleep(2000)    
